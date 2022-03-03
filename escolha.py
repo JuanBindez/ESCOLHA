@@ -13,4 +13,4 @@ if maquina_escolheu == vc_escolheu:
 else:
     os.system("clear")
     print("a maquina escolheu \n", maquina_escolheu)
-    print("vc escolheu escolheu \n", vc_escolheu)
+    print("vc escolheu \n", vc_escolheu)
