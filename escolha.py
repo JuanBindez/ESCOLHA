@@ -1,7 +1,7 @@
 '''
 Author: www.github.com/JuanBindez
 Description:
-Python Version: 3.10
+Python Version: 3.9
 year: 2021
 Local: Brazil
 '''
